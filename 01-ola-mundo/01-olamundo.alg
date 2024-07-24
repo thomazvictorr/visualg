@@ -1,4 +1,4 @@
-algoritmo "olamundo"
+algoritmo "01olamundo"
 // Função : Exibir a mensagem olá mundo na tela
 // Autor : Thomaz Victor
 

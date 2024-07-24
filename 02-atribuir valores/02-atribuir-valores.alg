@@ -1,4 +1,4 @@
-algoritmo "aula01"
+algoritmo "02-atribuir-valores"
 // Função : Criar variáveis, definir tipo, atribiur valores
 // Autor : Thomaz Victor
 

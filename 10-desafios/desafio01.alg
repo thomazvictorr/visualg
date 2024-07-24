@@ -11,5 +11,4 @@ inicio
       escreval  ("|=======================|", msg)
 
 // Exercício sobre o que foi estudado no Curso de Algoritmo do Professor Edson Maia no YT
-
 fimalgoritmo

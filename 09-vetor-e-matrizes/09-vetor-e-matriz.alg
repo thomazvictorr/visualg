@@ -54,5 +54,4 @@ repita
       escreval (mes[c])
       c <- c + 1
 ate c > 12
-
 fimalgoritmo

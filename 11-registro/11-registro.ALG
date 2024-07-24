@@ -2,7 +2,6 @@ Algoritmo "11-registro"
 // Função      : Registro, tipo de dados registro (objeto)
 // Autor(a)    : Thomaz Victor
 
-
 tipo
     usuario=registro
         nome: caractere
@@ -10,8 +9,7 @@ tipo
         endereco : caractere
         telefone : caractere
     fimregistro
-
-
+    
 var
 // cadastro sem vetor, ou seja, cadastro : usuario, só entra um cadastro
 cadastro : vetor [1..3] de usuario
@@ -41,6 +39,6 @@ para i de 1 ate 3 passo 1 faca
      escreval("Idade: " , cadastro.idade[i])
      escreval("Endereço: " , cadastro.endereco[i])
      escreval("Telefone: " , cadastro.telefone[i])
-fimpara
 
+fimpara
 Fimalgoritmo

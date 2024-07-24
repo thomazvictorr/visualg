@@ -18,5 +18,4 @@ fimpara
 para x de 7 ate 1 passo -1 faca
      escreval(x)
 fimpara
-
 fimalgoritmo

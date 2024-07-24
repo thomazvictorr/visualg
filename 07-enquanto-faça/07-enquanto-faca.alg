@@ -22,5 +22,4 @@ enquanto y > 0 faca
          escreval(y)
          y <- y - 1 // decremento y--
 fimenquanto
-
 fimalgoritmo

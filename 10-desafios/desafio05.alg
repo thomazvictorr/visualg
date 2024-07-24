@@ -23,5 +23,4 @@ inicio
       escreval("NUM. DE PARCELAS: " , num_parcelas , "x")
       escreval("VALOR PARCELA:" , valor_parcela , ".00")
       escreval("================= ***** =================")
-      
 fimalgoritmo

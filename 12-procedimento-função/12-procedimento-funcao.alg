@@ -73,5 +73,4 @@ somar2inteiros(3,2)
 escreval(mostra_msg())
 escreval(msg3("Mensagem personalizada com Função"))
 escreval(somar2inteiros2(4,6))
-
 fimalgoritmo

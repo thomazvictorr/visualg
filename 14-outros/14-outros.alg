@@ -33,5 +33,4 @@ enquanto y < 11 faca
          fimse
 
 fimenquanto
-
 fimalgoritmo

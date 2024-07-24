@@ -24,5 +24,4 @@ escolha sexo
         escreval ("Digite a Sigla do sexo M ou F")
         
 fimescolha
-
 fimalgoritmo

@@ -20,5 +20,4 @@ inicio
       escreval("Mensagem do dia: " , msg)
       escreval("Autor: " , autor)
       escreval("================= **** =================")
-
 fimalgoritmo

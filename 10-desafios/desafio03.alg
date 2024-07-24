@@ -24,5 +24,4 @@ inicio
       escreval("Altura: " , altura , "m")
       escreval("================= ***** =================")
       
-      
 fimalgoritmo

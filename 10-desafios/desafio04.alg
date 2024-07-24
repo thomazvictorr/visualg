@@ -7,16 +7,12 @@ var
    quant : inteiro
    preco, total : real
 
-
-
 inicio
 // calculos
    produto <- "iPhone 14"
    quant <- 2
    preco <- 4000.00
    total <- quant * preco
-
-
 
 
 // escrita em tela
@@ -27,8 +23,4 @@ inicio
       escreval("PREÇO: R$" , preco , ".00")
       escreval("TOTAL: R$" ,  preco * quant , ".00")
       escreval("================= ***** =================")
-
-
-
-// Seção de Comandos 
 fimalgoritmo

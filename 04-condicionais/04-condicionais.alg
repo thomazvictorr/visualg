@@ -30,6 +30,4 @@ senao
      escreval("Recuperação")
      fimse
 fimse
-
-
 fimalgoritmo

@@ -38,5 +38,4 @@ inicio
 // conccatenação , ou +
    escreva ("Mensagem: " , msg)
 
-
 fimalgoritmo

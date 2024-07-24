@@ -23,5 +23,4 @@ repita
       escreval("N° " , i)
       i <- i - 1 // decremento
 ate i <= 0
-
 fimalgoritmo

@@ -1,0 +1,5 @@
+Este código só pode ser compilado dentro do VisuAlg 3.0!
+
+O setup para instalação do mesmo se encontra na pasta SETUP!!
+
+Obrigado.

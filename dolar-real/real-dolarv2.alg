@@ -1,15 +1,18 @@
-algoritmo "real-dolar"
+algoritmo "real-dolar2"
 // Função : Exercício EBAC
 // Autor :  Thomaz Victor
 
 var
    opcao : inteiro
-   moedaDolar, moedaReal : real
+   cotarDolar, quantDolar, quantReal : real
    valor : real
 
 inicio
-      moedaDolar <- 5.65 // cotação do dolár no dia 29/07
-      moedaReal  <- 0.18
+
+      escreval("#### CONVERSOR DE MOEDA ####")
+      escreval("Qual a cotação do dolar na data de hoje?")
+      leia(cotarDolar)
+limpatela
 
       escreval("#### CONVERSOR DE MOEDA ####")
       escreval("Qual moeda você deseja converter?")
@@ -17,26 +20,24 @@ inicio
       escreval("2: Real para Dolár")
       leia(opcao)
 limpatela
-escolha opcao
 
+escolha opcao
       caso 1
       escreval("#### CONVERSOR DE MOEDA ####")
       escreval("Dolár para Real")
-      escreval("A cotação de 1 dolár é equivalente a 5,65 reais")
       escreval("Qual valor você deseja converter?")
       escreva("US$: ")
-      leia(valor)
-      escreval("Total da conversão: R$ " , moedaDolar * valor:2:2 , " reais")
-      
+      leia(quantDolar)
+      escreval("Total da conversão: R$ " , cotarDolar * quantDolar:2:2 , " reais")
+
       caso 2
       escreval("#### CONVERSOR DE MOEDA ####")
       escreval("2: Real para Dolár")
-      escreval("A cotação de 1 real é equivalente a 0,18 doláres")
       escreval("Qual valor você deseja converter?")
       escreva("R$: ")
-      leia(valor)
-      escreval("Total da conversão: US$" , moedaReal * valor:2:2 , " doláres")
+      leia(quantReal)
+      escreval("Total da conversão: US$ " , quantReal / cotarDolar:2:2 , " doláres")
 fimescolha
 
-            
+
 fimalgoritmo

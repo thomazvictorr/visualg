@@ -1,0 +1,4 @@
+Na versão 1, o valor da cotação do dólar já está declarado dentro do programa, já na segunda versão, você mesmo declara e faz a conversão.
+
+Att, 
+Thomaz Victor

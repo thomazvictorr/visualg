@@ -21,8 +21,8 @@ limpatela
       escreval("3: Multiplicação")
       escreval("4: Divisão")
       leia(opcao)
-
 limpatela
+
 escolha opcao
       caso 1
             escreval("#### CALCULADORA ####")

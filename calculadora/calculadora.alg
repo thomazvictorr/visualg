@@ -3,7 +3,7 @@ algoritmo "calculadora"
 // Data : 01/08/2024
 
 var
-   num1, num2, resul : real
+   num1, num2        : real
    opcao : inteiro
 
 inicio

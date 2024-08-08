@@ -5,7 +5,6 @@ algoritmo "real-dolar2"
 var
    opcao : inteiro
    cotarDolar, quantDolar, quantReal : real
-   valor : real
 
 inicio
 

@@ -5,7 +5,6 @@ algoritmo "real-dolar"
 var
    opcao : inteiro
    moedaDolar, moedaReal : real
-   valor : real
 
 inicio
       moedaDolar <- 5.65 // cotação do dolár no dia 29/07
